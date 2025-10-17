@@ -14,9 +14,17 @@
 ***Excel***
 
 1. 开发一个条形图以捕获 按经销商 ID 销售的数量，按销售数量升序或降序排序
+<img width="397" height="204" alt="image" src="https://github.com/user-attachments/assets/8a44d5ff-7359-4b48-98df-c87a31f3d2b8" />
+
 2. 开发一个折线图以捕获 按日期和车型的利润
+<img width="506" height="261" alt="image" src="https://github.com/user-attachments/assets/cb99dbb7-53e9-44a2-b6df-a87f3a3470c7" />
+
 3. 开发一个柱状图以捕获 按年份和经销商 ID 的利润
+<img width="397" height="204" alt="image" src="https://github.com/user-attachments/assets/074798c9-49cc-469a-8a17-7ff5b57ff527" />
+
 4. 开发一个折线图以捕获 按经销商 ID 统计的哈德逊车型汽车的利润总和
+<img width="396" height="203" alt="image" src="https://github.com/user-attachments/assets/3556b54e-521a-4160-abe4-a360b829a520" />
+
 
 ***Cognos Analytics***
 
