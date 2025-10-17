@@ -28,22 +28,35 @@
 
 ***Cognos Analytics***
 
-1. 创建一个标题为 销售 的仪表板/报告页面，以捕获以下 KPI 指标：
+1. 销售仪表板：
 
 捕获 利润（格式化为百万美元，保留 1 位小数）
-<img width="2164" height="648" alt="image" src="https://github.com/user-attachments/assets/8f4f79a2-10e4-4c3c-bf32-0bebe7dcd760" />
+<img width="1484" height="502" alt="image" src="https://github.com/user-attachments/assets/3936e99c-729b-4d4c-942e-a323e1a32477" />
 
 捕获 销售数量
 <img width="2188" height="1150" alt="image" src="https://github.com/user-attachments/assets/9ccad7b9-057d-4869-8c28-5c4a6c3ef2d2" />
 
 创建一个柱状图以捕获 按型号销售的数量
-<img width="2838" height="1324" alt="image" src="https://github.com/user-attachments/assets/4dc88b17-09e9-4e01-a2d8-b8a55d2a92d8" />
+<img width="2850" height="1230" alt="image" src="https://github.com/user-attachments/assets/cf958534-337f-4dab-878c-92ced6131011" />
 
 捕获 平均销售数量
-3. 开发一个柱状图以显示 销售 仪表板/报告页面中按 经销商 ID 排序的 利润，按升序排列。
-4. 创建另一个标题为 服务 的仪表板/报告页面，并以可视化方式捕获以下 KPI 指标：
+<img width="2766" height="940" alt="image" src="https://github.com/user-attachments/assets/177886f9-37f6-4062-bdb5-c6573cfebf19" />
+
+开发一个柱状图以显示 销售 仪表板/报告页面中按 经销商 ID 排序的 利润，按升序排列。
+<img width="2858" height="1376" alt="image" src="https://github.com/user-attachments/assets/369a089d-80ea-4c68-8f93-c44cb870a30e" />
+
+2. 服务仪表板：
+
 创建一个柱状图以捕获每种车型的召回数量
+<img width="2170" height="1292" alt="image" src="https://github.com/user-attachments/assets/9ff8c8de-f645-4211-95c4-a732dcd0f62a" />
+
 创建一个树状图以通过比较积极、中立和消极评论来捕获客户情绪。
+<img width="2136" height="1290" alt="image" src="https://github.com/user-attachments/assets/512f6846-d5c4-4406-8198-1bdfbb9b340d" />
+
 创建一个折线和柱状图以捕获每月销售的汽车数量与利润的对比。
+<img width="2836" height="1350" alt="image" src="https://github.com/user-attachments/assets/9bf4d3a3-34cc-465d-8de9-a3e9852aa7bc" />
+
 创建一个热图（在 Cognos 中）/ 带热图的透视表（在 Looker 中）以捕获按型号和受影响系统的召回数量
+<img width="2842" height="1318" alt="image" src="https://github.com/user-attachments/assets/aefcc40a-7b1e-4802-99ac-54f030e7385f" />
+
 
