@@ -29,12 +29,19 @@
 ***Cognos Analytics***
 
 1. 创建一个标题为 销售 的仪表板/报告页面，以捕获以下 KPI 指标：
+
 捕获 利润（格式化为百万美元，保留 1 位小数）
+<img width="2164" height="648" alt="image" src="https://github.com/user-attachments/assets/8f4f79a2-10e4-4c3c-bf32-0bebe7dcd760" />
+
 捕获 销售数量
+<img width="2188" height="1150" alt="image" src="https://github.com/user-attachments/assets/9ccad7b9-057d-4869-8c28-5c4a6c3ef2d2" />
+
 创建一个柱状图以捕获 按型号销售的数量
+<img width="2838" height="1324" alt="image" src="https://github.com/user-attachments/assets/4dc88b17-09e9-4e01-a2d8-b8a55d2a92d8" />
+
 捕获 平均销售数量
-2. 开发一个柱状图以显示 销售 仪表板/报告页面中按 经销商 ID 排序的 利润，按升序排列。
-3. 创建另一个标题为 服务 的仪表板/报告页面，并以可视化方式捕获以下 KPI 指标：
+3. 开发一个柱状图以显示 销售 仪表板/报告页面中按 经销商 ID 排序的 利润，按升序排列。
+4. 创建另一个标题为 服务 的仪表板/报告页面，并以可视化方式捕获以下 KPI 指标：
 创建一个柱状图以捕获每种车型的召回数量
 创建一个树状图以通过比较积极、中立和消极评论来捕获客户情绪。
 创建一个折线和柱状图以捕获每月销售的汽车数量与利润的对比。
